@@ -1,4 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00  05 L00 General, etc.
+ZCZC W00 120 L00 Playing Left For Dead 2 (Add Steam: AhlNero)
+ZCZC W00  60 L01 Reading OS Concepts Part 1: Overview: 1. Introduction pptx pg: 1 - 30
