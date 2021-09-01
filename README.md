@@ -5,4 +5,4 @@ Hello! I am Dimas Tri Kurniawan and this is my Operating System page.
 
 What i have done so far:
 
-1.  ZCZC W00  05 L00 belajar
+1.
