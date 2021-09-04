@@ -5,4 +5,5 @@ ZCZC W00 180 L00 Assignment #00
 ZCZC W00 100 L01 Zoom Meeting
 ZCZC W00 120 L02 Playing Left For Dead 2 (Add Steam: AhlNero)
 ZCZC W00  60 L03 Reading Operating System Concepts (Part 1: Overview: 1. Introduction pptx pg: 1 - 30)
-ZCZC W00 100 L00 Zoom Meeting
+ZCZC W00 100 L01 Zoom Meeting
+ZCZC W00 150 L04 Reading Slide 00
