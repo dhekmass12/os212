@@ -8,3 +8,4 @@ ZCZC W00  60 L03 Reading Operating System Concepts (Part 1: Overview: 1. Introdu
 ZCZC W00 100 L01 Zoom Meeting
 ZCZC W00 150 L04 Reading Slide 00
 ZCZC W00 540 L05 Downloading & Installing VirtualBox
+ZCZC W01 100 L01 Zoom Meeting
