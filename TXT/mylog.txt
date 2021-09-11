@@ -9,3 +9,5 @@ ZCZC W00 100 L01 Zoom Meeting
 ZCZC W00 150 L04 Reading Slide 00
 ZCZC W01 540 L05 Downloading & Installing VirtualBox
 ZCZC W01 100 L01 Zoom Meeting
+ZCZC W01  15 L05 Downloading Debian-11-01.ova
+ 
