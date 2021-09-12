@@ -3,4 +3,4 @@ Hello! I am Dimas Tri Kurniawan and this is my Operating System page.
 
 Check What i have done so far:
 
-[LOG](TXT/mylog.txt) | [REPOSITORY](https://github.com/dhekmass12/os212)
+[LOG](TXT/mylog.txt) | [GITHUB](https://github.com/dhekmass12) | [LINKS]()
