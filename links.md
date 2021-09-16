@@ -14,14 +14,6 @@ Linux adalah OS yang dikenal ringan dan merupakan pilihan yang bagus untuk belaj
 
 <b>Week 0</b><br>
 
-1. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-
 <b>Week 1</b><br>
 
-1. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+<b>Week 2</b><br>
