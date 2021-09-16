@@ -1,14 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 180 L00 Assignment
-ZCZC W00 100 L01 Zoom Meeting
-ZCZC W00 120 L02 Playing Left 4 Dead 2 (Add Steam: AhlNero)
-ZCZC W00  60 L03 Reading Operating System Concepts (Part 1: Overview: 1. Introduction pptx pg: 1 - 30)
-ZCZC W00 100 L01 Zoom Meeting
-ZCZC W00 150 L04 Reading Slide
-ZCZC W00   5 L05 Quiz
-ZCZC W01 100 L01 Zoom Meeting
-ZCZC W01 900 L00 Assignment
-ZCZC W01  20 L05 Quiz
-ZCZC W01 100 L01 Zoom Meeting
+ZCZC W00 180 L-- Assignment
+ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 120 L73 Gaming
+ZCZC W00  60 L06 References/Books/Documents/GSGS related
+ZCZC W00 100 L02 ZOOM meetings relate
+ZCZC W00 150 L06 References/Books/Documents/GSGS relate
+ZCZC W00   5 L22 Quiz
+ZCZC W01 100 L02 ZOOM meetings relate
+ZCZC W01 900 L-- Assignment
+ZCZC W01  20 L22 Quiz
+ZCZC W01 100 L02 ZOOM meetings related
