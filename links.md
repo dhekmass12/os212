@@ -33,7 +33,7 @@ Intruder sits in data flow, masquerading as sender to receiver and vice versa
 4. [Session Hijacking](https://owasp.org/www-community/attacks/Session_hijacking_attack)<br>
 The Session Hijacking attack compromises the session token by stealing or predicting a valid session token to gain unauthorized access to the Web Server.
 
-5. [Privilage Escalation](https://www.cynet.com/network-attacks/privilege-escalation/)<br
+5. [Privilage Escalation](https://www.cynet.com/network-attacks/privilege-escalation/)<br>
 Privilege escalation is a common way for attackers to gain unauthorized access to systems within a security perimeter.
 
 6. [Social Engineering](https://www.webroot.com/us/en/resources/tips-articles/what-is-social-engineering)<br>
@@ -42,5 +42,17 @@ Social engineering is the art of manipulating people so they give up confidentia
 7. [Phising](https://www.phishing.org/what-is-phishing)<br>
 Phishing is a cybercrime in which a target or targets are contacted by email, telephone or text message by someone posing as a legitimate institution to lure individuals into providing sensitive data such as personally identifiable information, banking and credit card details, and passwords.
 
-8. []()<br>
+8. [DDOS](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)<br>
+A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic effectively by utilizing multiple compromised computer systems as sources of attack traffic.
 
+9. [Sandboxing](https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-sandboxing/)<br
+Sandboxing is a cybersecurity practice where you run code, observe and analyze and code in a safe, isolated environment on a network that mimics end-user operating environments.
+
+10. [Spoofing](https://www.forcepoint.com/cyber-edu/spoofing)<br>
+Spoofing is the act of disguising a communication from an unknown source as being from a known, trusted source. Spoofing can apply to emails, phone calls, and websites, or can be more technical, such as a computer spoofing an IP address, Address Resolution Protocol (ARP), or Domain Name System (DNS) server.
+
+11. [Sniffing](https://www.greycampus.com/opencampus/ethical-hacking/sniffing-and-its-types)<br>
+Sniffing is a process of monitoring and capturing all data packets passing through given network.
+
+12. Thread<br>
+Some kind of <b>thread</b>: malware, trojan horse, spyware, ransomware, trap (back) door, logic bombm, code-injection attack, overflow, script kiddie, etc.
