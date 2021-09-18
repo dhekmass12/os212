@@ -63,7 +63,7 @@ Phishing is a cybercrime in which a target or targets are contacted by email, te
 8. [DDOS](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)<br>
 A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic effectively by utilizing multiple compromised computer systems as sources of attack traffic.
 
-9. [Sandboxing](https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-sandboxing/)<br
+9. [Sandboxing](https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-sandboxing/)<br>
 Sandboxing is a cybersecurity practice where you run code, observe and analyze and code in a safe, isolated environment on a network that mimics end-user operating environments.
 
 10. [Spoofing](https://www.forcepoint.com/cyber-edu/spoofing)<br>
