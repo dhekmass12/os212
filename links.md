@@ -76,4 +76,4 @@ Sniffing is a process of monitoring and capturing all data packets passing throu
 Some kind of <b>thread</b>: malware, trojan horse, spyware, ransomware, trap (back) door, logic bombm, code-injection attack, overflow, script kiddie, etc.
 
 13. [C Language](https://en.wikipedia.org/wiki/C_(programming_language))<br>
-C language is used to build an operating system. You can learn it in [Programmiz](https://www.programiz.com/c-programming)(english) or [Duniailkom](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/).
+C language is used to build an operating system. You can learn it in [Programmiz](https://www.programiz.com/c-programming) (english) or [Duniailkom](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) (bahasa).
