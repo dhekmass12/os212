@@ -15,7 +15,7 @@ This co-operative action horror FPS takes you and your friends through the citie
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs. 
 
 2. [Linux](https://www.linux.org/)<br>
-Linux adalah OS yang dikenal ringan dan merupakan pilihan yang bagus untuk belajar OS. Dibutuhkan skill yang cukup tinggi sehingga butuh beberapa waktu untuk dapat menguasainya. Salah satu distribusi linux yang saya sarankan adalah [ubuntu](https://ubuntu.com/) dan [kali](https://www.kali.org/)
+Linux adalah OS yang dikenal ringan dan merupakan pilihan yang bagus untuk belajar OS. Dibutuhkan skill yang cukup tinggi sehingga butuh beberapa waktu untuk dapat menguasainya. Salah satu distribusi linux yang saya sarankan adalah [ubuntu](https://ubuntu.com/) dan [kali](https://www.kali.org/).
 
 3. [Free Software](https://www.fsf.org/)<br>
 Free software means that the users have the freedom to run, edit, contribute to, and share the software. Thus, free software is a matter of liberty, not price.
@@ -75,5 +75,5 @@ Sniffing is a process of monitoring and capturing all data packets passing throu
 12. Thread<br>
 Some kind of <b>thread</b>: malware, trojan horse, spyware, ransomware, trap (back) door, logic bombm, code-injection attack, overflow, script kiddie, etc.
 
-13. C Language<br>
-C language is used to build an operating system. You can learn it in [Programmiz](https://www.programiz.com/c-programming)(english) or [Duniailkom](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/)
+13. [C Language](https://en.wikipedia.org/wiki/C_(programming_language))<br>
+C language is used to build an operating system. You can learn it in [Programmiz](https://www.programiz.com/c-programming)(english) or [Duniailkom](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/).
