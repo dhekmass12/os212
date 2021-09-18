@@ -9,15 +9,33 @@ permalink: /LINKS/
 1. [Left for Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)<br>
 This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns. Game ini sangat cocok untuk dimainkan untuk menaikkan semangat sebelum belajar maupun saat istirahat di sela-sela belajar.
 
-2. [Linux](https://www.linux.org/)<br>
-Linux adalah OS yang dikenal ringan dan merupakan pilihan yang bagus untuk belajar OS. Dibutuhkan skill yang cukup tinggi sehingga butuh beberapa waktu untuk dapat menguasainya. Salah satu distribusi linux yang saya sarankan adalah [ubuntu](https://ubuntu.com/) dan [kali](https://www.kali.org/).
-
 <b>Week 0</b><br>
+
+1. [Operating System](https://en.wikipedia.org/wiki/Operating_system)<br>
+An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs. 
+
+2. [Linux](https://www.linux.org/)<br>
+Linux adalah OS yang dikenal ringan dan merupakan pilihan yang bagus untuk belajar OS. Dibutuhkan skill yang cukup tinggi sehingga butuh beberapa waktu untuk dapat menguasainya. Salah satu distribusi linux yang saya sarankan adalah [ubuntu](https://ubuntu.com/) dan [kali](https://www.kali.org/)
+
+3. [Free Software](https://www.fsf.org/)<br>
+Free software means that the users have the freedom to run, edit, contribute to, and share the software. Thus, free software is a matter of liberty, not price.
 
 <b>Week 1</b><br>
 
-1. [Left for Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)<br>
-This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns. Game ini sangat cocok untuk dimainkan untuk menaikkan semangat sebelum belajar maupun saat istirahat di sela-sela belajar
+1. [Hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor)<br>
+A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. 
+
+2. [Virtual Memory](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986)<br>
+irtual memory is a feature of an operating system that enables a computer to be able to compensate shortages of physical memory by transferring pages of data from random access memory to disk storage. 
+
+3. [Regex](https://en.wikipedia.org/wiki/Regular_expression)<br>
+A regular expression is a sequence of characters that specifies a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. [Click here to learn regex using this absolutely beautiful website.](https://regexr.com/)
+
+4. [SSH](https://www.ssh.com/academy/ssh)<br>
+SSH (Secure Shell) is a software package that enables secure system administration and file transfers over insecure networks.
+
+5. [VirtualBox](https://www.virtualbox.org/)<br>
+VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. Installing Virtualbox give you capabilities of your existing computer so that it can run multiple OSes.
 
 <b>Week 2</b><br>
 
@@ -56,3 +74,6 @@ Sniffing is a process of monitoring and capturing all data packets passing throu
 
 12. Thread<br>
 Some kind of <b>thread</b>: malware, trojan horse, spyware, ransomware, trap (back) door, logic bombm, code-injection attack, overflow, script kiddie, etc.
+
+13. C Language<br>
+C language is used to build an operating system. You can learn it in [Programmiz](https://www.programiz.com/c-programming)(english) or [Duniailkom](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/)
