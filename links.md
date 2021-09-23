@@ -77,3 +77,17 @@ Some kind of <b>thread</b>: malware, trojan horse, spyware, ransomware, trap (ba
 
 13. [C Language](https://en.wikipedia.org/wiki/C_(programming_language))<br>
 C language is used to build an operating system. You can learn it in [Programmiz](https://www.programiz.com/c-programming) (english) or [Duniailkom](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) (bahasa).
+
+<b>Week 3</b><br>
+
+1. [File/Directory Operation in Linux](https://dev.to/nadirbasalamah/file-operation-with-linux-command-31a9)<br>
+Various commands of file and directory operation in linux using terminal.
+
+2. [Directory Structure](https://www.tutorialandexample.com/directory-structure-in-operating-system/)<br>
+Types of directory structure in operating system with definition, operation, characteristics, advantages, and their disadvantages.
+
+3. [File Allocation Method](https://www.includehelp.com/operating-systems/file-allocation-method.aspx)<br>
+More explanation about file allocation method in operating system.
+
+4. [Linux Filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
+An introduction to linux filesystems.
