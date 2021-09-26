@@ -83,11 +83,23 @@ C language is used to build an operating system. You can learn it in [Programmiz
 1. [File/Directory Operation in Linux](https://dev.to/nadirbasalamah/file-operation-with-linux-command-31a9)<br>
 Various commands of file and directory operation in linux using terminal.
 
-2. [Directory Structure](https://www.tutorialandexample.com/directory-structure-in-operating-system/)<br>
+2. [Directory Structure](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/)<br>
 Types of directory structure in operating system with definition, operation, characteristics, advantages, and their disadvantages.
 
-3. [File Allocation Method](https://www.includehelp.com/operating-systems/file-allocation-method.aspx)<br>
+3. [Virtual File System](http://openstorage.gunadarma.ac.id/linux/docs/v06/Kuliah/SistemOperasi/BUKU/SistemOperasi-4.X-2/ch21s02.html)<br>
+Tujuan dari VFS yaitu agar berbagai sistem berkas yang berbeda dapat di akses oleh aplikasi komputer dengan cara yang seragam.
+
+4. [Access Control and Sharing Files](https://people.cs.rutgers.edu/~pxk/419/notes/access.html)<br>
+How different users can share files with their each access control.
+
+5. [File Allocation Method](https://www.includehelp.com/operating-systems/file-allocation-method.aspx)<br>
 More explanation about file allocation method in operating system.
 
-4. [Linux Filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
+6. [Linux Filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
 An introduction to linux filesystems.
+
+7. [(Completed) Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)<br>
+A Filesystem Hierarchy Standard book from The [Linux Foundation](https://www.linuxfoundation.org/)
+
+8. [Mount vs Volume](https://stackoverflow.com/questions/47150829/what-is-the-difference-between-binding-mounts-and-volumes-while-handling-persist)<br>
+Difference between Volume and Mount.
