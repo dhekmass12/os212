@@ -22,6 +22,8 @@ Linux adalah OS yang dikenal ringan dan merupakan pilihan yang bagus untuk belaj
 3. [Free Software](https://www.fsf.org/)<br>
 Free software means that the users have the freedom to run, edit, contribute to, and share the software. Thus, free software is a matter of liberty, not price.
 
+#
+
 ### Week 1<br>
 
 1. [Hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor)<br>
@@ -38,6 +40,8 @@ SSH (Secure Shell) is a software package that enables secure system administrati
 
 5. [VirtualBox](https://www.virtualbox.org/)<br>
 VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. Installing Virtualbox give you capabilities of your existing computer so that it can run multiple OSes.
+
+#
 
 ### Week 2<br>
 
@@ -80,6 +84,8 @@ Some kind of <b>thread</b>: malware, trojan horse, spyware, ransomware, trap (ba
 13. [C Language](https://en.wikipedia.org/wiki/C_(programming_language))<br>
 C language is used to build an operating system. You can learn it in [Programmiz](https://www.programiz.com/c-programming) (english) or [Duniailkom](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) (bahasa).
 
+#
+
 ### Week 3<br>
 
 1. [File/Directory Operation in Linux](https://dev.to/nadirbasalamah/file-operation-with-linux-command-31a9)<br>
@@ -105,6 +111,8 @@ A Filesystem Hierarchy Standard book from The [Linux Foundation](https://www.lin
 
 8. [Mount vs Volume](https://stackoverflow.com/questions/47150829/what-is-the-difference-between-binding-mounts-and-volumes-while-handling-persist)<br>
 Difference between Volume and Mount.
+
+#
 
 ### Week 4<br>
 
