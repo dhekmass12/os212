@@ -103,3 +103,14 @@ A Filesystem Hierarchy Standard book from The [Linux Foundation](https://www.lin
 
 8. [Mount vs Volume](https://stackoverflow.com/questions/47150829/what-is-the-difference-between-binding-mounts-and-volumes-while-handling-persist)<br>
 Difference between Volume and Mount.
+
+<b>Week 4</b><br>
+
+1. [Logical address vs Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+Their Definitions and differences between them.
+
+2. [Paging Hardware](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
+Paging is a memory management scheme that eliminates the need for contiguous allocation of physical memory.
+
+3. [32-bit vs 64-bit architecture](https://www.hellotech.com/blog/whats-the-difference-between-32-bit-and-64-bit)<br>
+Basic knowledges about 32-bit and 64-bit architecture.
