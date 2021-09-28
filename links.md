@@ -6,7 +6,7 @@ permalink: /LINKS/
 
 ### PREPARATION<br>
 
-#### 1. [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)<br>
+1. [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)<br>
 This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns. Game ini sangat cocok untuk dimainkan untuk menaikkan semangat sebelum belajar maupun saat istirahat di sela-sela belajar.
 
 #
