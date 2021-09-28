@@ -4,12 +4,12 @@ permalink: /LINKS/
 
 # LINKS
 
-<b>PREPARATION</b><br>
+### PREPARATION<br>
 
-### 1. [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)<br>
+1. [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)<br>
 This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns. Game ini sangat cocok untuk dimainkan untuk menaikkan semangat sebelum belajar maupun saat istirahat di sela-sela belajar.
 
-<b>Week 0</b><br>
+### Week 0<br>
 
 1. [Operating System](https://en.wikipedia.org/wiki/Operating_system)<br>
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs. 
@@ -20,7 +20,7 @@ Linux adalah OS yang dikenal ringan dan merupakan pilihan yang bagus untuk belaj
 3. [Free Software](https://www.fsf.org/)<br>
 Free software means that the users have the freedom to run, edit, contribute to, and share the software. Thus, free software is a matter of liberty, not price.
 
-<b>Week 1</b><br>
+### Week 1<br>
 
 1. [Hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor)<br>
 A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. 
@@ -37,7 +37,7 @@ SSH (Secure Shell) is a software package that enables secure system administrati
 5. [VirtualBox](https://www.virtualbox.org/)<br>
 VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. Installing Virtualbox give you capabilities of your existing computer so that it can run multiple OSes.
 
-<b>Week 2</b><br>
+### Week 2<br>
 
 1. [Masquerading](https://www.techopedia.com/definition/4020/masquerade-attack)<br>
 Pretending to be an authorized user to excalate privilages
@@ -78,7 +78,7 @@ Some kind of <b>thread</b>: malware, trojan horse, spyware, ransomware, trap (ba
 13. [C Language](https://en.wikipedia.org/wiki/C_(programming_language))<br>
 C language is used to build an operating system. You can learn it in [Programmiz](https://www.programiz.com/c-programming) (english) or [Duniailkom](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) (bahasa).
 
-<b>Week 3</b><br>
+### Week 3<br>
 
 1. [File/Directory Operation in Linux](https://dev.to/nadirbasalamah/file-operation-with-linux-command-31a9)<br>
 Various commands of file and directory operation in linux using terminal.
@@ -104,7 +104,7 @@ A Filesystem Hierarchy Standard book from The [Linux Foundation](https://www.lin
 8. [Mount vs Volume](https://stackoverflow.com/questions/47150829/what-is-the-difference-between-binding-mounts-and-volumes-while-handling-persist)<br>
 Difference between Volume and Mount.
 
-<b>Week 4</b><br>
+### Week 4<br>
 
 1. [Logical address vs Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
 Their Definitions and differences between them.
