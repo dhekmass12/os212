@@ -13,7 +13,7 @@ This co-operative action horror FPS takes you and your friends through the citie
 
 ### Week 0<br>
 
-1. [Operating System](https://en.wikipedia.org/wiki/Operating_system)<br>
+1. [**Operating System**](https://en.wikipedia.org/wiki/Operating_system)<br>
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs. 
 
 2. [Linux](https://www.linux.org/)<br>
