@@ -25,5 +25,8 @@ ZCZC W03 180 L73 Gaming
 ZCZC W03 210 L06 References/Books/Documents/GSGS related
 ZCZC W03  10 L26 C-language
 ZCZC W03  20 L22 Quiz
+ZCZC W04 100 L02 ZOOM meetings related
 ZCZC W04  60 L06 References/Books/Documents/GSGS related
 ZCZC W04 120 L09 Assignment
+ZCZC W04  20 L22 Quiz
+ZCZC W05 100 L02 ZOOM meetings related
