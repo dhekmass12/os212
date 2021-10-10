@@ -135,10 +135,10 @@ irtual memory is a feature of an operating system that enables a computer to be 
 2. [**fork()**](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
 The usages of fork() you must know.
 
-3. [**Copy-on-Write **](https://www.geeksforgeeks.org/copy-on-write/)<br>
+3. [**Copy-on-Write**](https://www.geeksforgeeks.org/copy-on-write/)<br>
 Another example how copy on write works on sharing same pages.
 
-4. [**NUMA **](http://p2k.unhamzah.ac.id/IT/2-3073-2970/Non-Uniform-Memory-Access_12203_p2k-unhamzah.html)<br>
+4. [**NUMA**](http://p2k.unhamzah.ac.id/IT/2-3073-2970/Non-Uniform-Memory-Access_12203_p2k-unhamzah.html)<br>
 Under NUMA, a processor can access its own local memory faster than non-local memory (memory local to another processor or memory shared between processors).
 
 
