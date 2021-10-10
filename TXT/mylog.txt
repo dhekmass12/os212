@@ -30,3 +30,6 @@ ZCZC W04  60 L06 References/Books/Documents/GSGS related
 ZCZC W04 120 L09 Assignment
 ZCZC W04  20 L22 Quiz
 ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05  60 L06 References/Books/Documents/GSGS relate
+ZCZC W05  60 L73 Gaming
+ZCZC W05 240 L09 Assignment

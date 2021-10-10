@@ -124,3 +124,21 @@ Paging is a memory management scheme that eliminates the need for contiguous all
 
 3. [**32-bit vs 64-bit architecture**](https://www.hellotech.com/blog/whats-the-difference-between-32-bit-and-64-bit)<br>
 Basic knowledges about 32-bit and 64-bit architecture.
+
+#
+
+### Week 5<br>
+
+1. [**What is Virtual Memory?**](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986)<br>
+irtual memory is a feature of an operating system that enables a computer to be able to compensate shortages of physical memory by transferring pages of data from random access memory to disk storage. 
+
+2. [**fork()**](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+The usages of fork() you must know.
+
+3. [**Copy-on-Write **](https://www.geeksforgeeks.org/copy-on-write/)<br>
+Another example how copy on write works on sharing same pages.
+
+4. [**NUMA **](http://p2k.unhamzah.ac.id/IT/2-3073-2970/Non-Uniform-Memory-Access_12203_p2k-unhamzah.html)<br>
+Under NUMA, a processor can access its own local memory faster than non-local memory (memory local to another processor or memory shared between processors).
+
+
