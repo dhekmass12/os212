@@ -5,7 +5,7 @@ permalink: /TIPS/
 
 # TIPS
 
-### WEEK 5<br>
+### Week 5<br>
 
 1. [Do Exercise!](https://www.health.qld.gov.au/news-events/news/30-ways-to-get-active-exercise-fun)<br>
 Exercise helps people lose weight and lower the risk of some diseases. Stay Healthy!
@@ -18,7 +18,7 @@ Let's get vaccinated! Here's a link to find your nearest location of vaccination
 
 #
 
-### WEEK 6<br>
+### Week 6<br>
 
 1. [Just My Favourite cheering Song I Want You to Hear](https://www.youtube.com/watch?v=qZIQAk-BUEc)<br>
 "Life won't be harder if you're not alone" -Budi Doremi. So.. what are you fighting for? Try to share that weight to us if you cannot hadle it.
