@@ -33,3 +33,8 @@ ZCZC W05 100 L02 ZOOM meetings related
 ZCZC W05  60 L06 References/Books/Documents/GSGS relate
 ZCZC W05  60 L73 Gaming
 ZCZC W05 240 L09 Assignment
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06  60 L06 References/Books/Documents/GSGS relate
+ZCZC W06 180 L73 Gaming
+ZCZC W06 450 L09 Assignment
+

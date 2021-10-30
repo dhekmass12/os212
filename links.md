@@ -130,7 +130,7 @@ Basic knowledges about 32-bit and 64-bit architecture.
 ### Week 5<br>
 
 1. [**What is Virtual Memory?**](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986)<br>
-irtual memory is a feature of an operating system that enables a computer to be able to compensate shortages of physical memory by transferring pages of data from random access memory to disk storage. 
+Virtual memory is a feature of an operating system that enables a computer to be able to compensate shortages of physical memory by transferring pages of data from random access memory to disk storage. 
 
 2. [**fork()**](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
 The usages of fork() you must know.
@@ -141,4 +141,21 @@ Another example how copy on write works on sharing same pages.
 4. [**NUMA**](http://p2k.unhamzah.ac.id/IT/2-3073-2970/Non-Uniform-Memory-Access_12203_p2k-unhamzah.html)<br>
 Under NUMA, a processor can access its own local memory faster than non-local memory (memory local to another processor or memory shared between processors).
 
+#
 
+### Week 6<br>
+
+1. [**Process States**](https://www.javatpoint.com/os-process-states)<br>
+5 Process states with their state diagram you must know.
+
+2. [**Process Control Block (bahasa)**](https://www.nesabamedia.com/process-control-block/)<br>
+PCB has some important information about a block.
+
+3. [**Communication Models**](https://www.tutorialspoint.com/message-passing-vs-shared-memory-process-communication-models)<br>
+More detailed information about communication models: shared model and message passing. To know more about the differences between them, [click me!](https://www.geeksforgeeks.org/difference-between-shared-memory-model-and-message-passing-model-in-ipc/)
+
+4. [**Single and Multithreaded Processes (bahasa)**](https://tintakopi.wordpress.com/2011/10/24/thread-multithread/)<br>
+More information about single and multithreaded processes, including their definitions, benefits, disanvantages, models,  and many more.
+
+5. [**Linux Threads**](https://www.informit.com/articles/article.aspx?p=370047&seqNum=3)<br>
+More information about linux implementation of threads and their flags.
