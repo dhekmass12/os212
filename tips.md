@@ -3,6 +3,9 @@ layout: "layout"
 permalink: /TIPS/
 ---
 
+[LOG](TXT/mylog.txt) | [MY GITHUB](https://github.com/dhekmass12) | [LINKS](https://github.com/dhekmass12/os212/blob/master/links.md) | [TIPS](https://github.com/dhekmass12/os212/blob/master/tips.md)
+
+
 # TIPS
 
 ### Week 5<br>

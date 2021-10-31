@@ -2,6 +2,9 @@
 permalink: /LINKS/
 ---
 
+[LOG](TXT/mylog.txt) | [MY GITHUB](https://github.com/dhekmass12) | [LINKS](https://github.com/dhekmass12/os212/blob/master/links.md) | [TIPS](https://github.com/dhekmass12/os212/blob/master/tips.md)
+
+
 # LINKS
 
 ### PREPARATION<br>
@@ -111,6 +114,9 @@ A Filesystem Hierarchy Standard book from The [Linux Foundation](https://www.lin
 
 8. [**Mount vs Volume**](https://stackoverflow.com/questions/47150829/what-is-the-difference-between-binding-mounts-and-volumes-while-handling-persist)<br>
 Difference between Volume and Mount.
+
+9. [**Chmod Calculator**](https://chmodcommand.com/chmod-0666/)<br>
+Calculator to determine access control of file/directory, frequently used with chmod.
 
 #
 
