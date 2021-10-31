@@ -3,7 +3,8 @@ layout: "layout"
 permalink: /TIPS/
 ---
 
-[LOG](TXT/mylog.txt) | [MY GITHUB](https://github.com/dhekmass12) | [LINKS](https://github.com/dhekmass12/os212/blob/master/links.md) | [TIPS](https://github.com/dhekmass12/os212/blob/master/tips.md)
+
+### [LOG](TXT/mylog.txt) | [MY GITHUB](https://github.com/dhekmass12) | [LINKS](https://github.com/dhekmass12/os212/blob/master/links.md) | [TIPS](https://github.com/dhekmass12/os212/blob/master/tips.md)
 
 
 # TIPS
@@ -23,6 +24,6 @@ Let's get vaccinated! Here's a link to find your nearest location of vaccination
 
 ### Week 6<br>
 
-1. [Just My Favourite cheering Song I Want You to Hear](https://www.youtube.com/watch?v=qZIQAk-BUEc)<br>
-"Life won't be harder if you're not alone" -Budi Doremi. So.. what are you fighting for? Try to share that weight to us if you cannot hadle it.
+1. [A Song to hear when you are feel alone](https://www.youtube.com/watch?v=qZIQAk-BUEc)<br>
+Just my favourite cheering song i want you to hear. "Life won't be harder if you're not alone" -Budi Doremi. So.. what are you fighting for? Try to share that weight to us if you cannot hadle it.
 
