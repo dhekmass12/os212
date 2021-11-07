@@ -168,3 +168,12 @@ More information about single and multithreaded processes, including their defin
 More information about linux implementation of threads and their flags.
 
 
+#
+
+### Week 7<br>
+
+1. [**Critical Section**](https://www.tutorialspoint.com/critical-section-problem)<br>
+About Critical Section.
+
+2. [**Kernel Synchronization**](https://notes.eddyerburgh.me/operating-systems/linux/kernel-synchronization)<br>
+Basic understanding of Kernel synchronization and others.
