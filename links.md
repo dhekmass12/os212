@@ -177,3 +177,13 @@ About Critical Section.
 
 2. [**Kernel Synchronization**](https://notes.eddyerburgh.me/operating-systems/linux/kernel-synchronization)<br>
 Basic understanding of Kernel synchronization and others.
+
+#
+
+### Week 8<br>
+
+1. [**CPU Scheduling**](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)<br>
+More in CPU scheduling.
+
+2. [**Little's Formula**](https://allaboutse.com/what-is-littles-formula-with-examples/)<br>
+More in Little's Formula.
