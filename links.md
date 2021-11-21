@@ -187,3 +187,18 @@ More in CPU scheduling.
 
 2. [**Little's Formula**](https://allaboutse.com/what-is-littles-formula-with-examples/)<br>
 More in Little's Formula.
+
+#
+
+### Week 9<br>
+
+1. [**Disk Scheduling**](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
+More in Disk Scheduling
+
+2. [**Linux From Scratch Tutorial*](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+Linux from scratch guide
+
+2. [**Cloud Storage*](https://aws.amazon.com/what-is-cloud-storage/)<br>
+Basic knowledge of the Cloud Storage
+
+
