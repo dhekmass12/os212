@@ -198,7 +198,18 @@ More in Disk Scheduling
 2. [**Linux From Scratch Tutorial*](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
 Linux from scratch guide
 
-2. [**Cloud Storage*](https://aws.amazon.com/what-is-cloud-storage/)<br>
+3. [**Cloud Storage*](https://aws.amazon.com/what-is-cloud-storage/)<br>
 Basic knowledge of the Cloud Storage
 
+#
 
+### Week 10<br>
+
+1. [**DMA**](https://www.acerid.com/dma-direct-memory-access/)<br>
+More in DMA Transfer.
+
+2. [**Kernel Data Structure**](https://www.tutorialspoint.com/Kernel-Data-Structures)<br>
+More information about kernel data structure.
+
+3. [**Advanced File I/O**](https://www.oreilly.com/library/view/linux-system-programming/0596009585/ch04.html)<br>
+More advanced I/O system calls that Linux provides.
